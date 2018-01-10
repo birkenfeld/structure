@@ -11,5 +11,5 @@ include = ["Cargo.toml", "src/**/*.rs", "README.md", "LICENSE-APACHE", "LICENSE-
 proc-macro = true
 
 [dependencies]
-proc-macro-hack = "0.3"
+proc-macro-hack = "0.4"
 quote = "0.3"
